@@ -119,8 +119,4 @@
 
 ### 📝 Both
 - Write project documentation (setup, API endpoints, WebSocket events).  
-- Prepare a demo presentation.  
 
----
-
-🚀 **This roadmap ensures a production-ready chat application in 9 days.** Copy this into your `README.md` and start building!  
